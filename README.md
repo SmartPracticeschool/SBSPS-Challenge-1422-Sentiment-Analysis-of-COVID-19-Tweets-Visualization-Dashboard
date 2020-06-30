@@ -6,7 +6,7 @@ This repository contains all code files and data we used in the IBMHC 2020 proje
 In this project, we utilized twitter data, leveraged NLP techniques to process the text data, analyzed the data by sentiment analysis using TextBlob and IBM Tone Analyzer, and created Tableau dashboard to present the results.
 # Overview
 To visualize Sentiments of Indians after the extension of lockdown announcements based on tweets with the relevant #tags on twitter and build dashboards as a daily sentiment monitor product to present the results.
-# Purpose:
+# Purpose
 The purpose of this project is as follows:
 1. To gain an overview of the wider public opinion behind certain topics such as lockdown guidelines, government rules, work from home, etc. 
 2. To use sentiment analysis as a means to gauge public opinion so that the concerned authority can be able to strategize and plan for the future.
@@ -19,13 +19,35 @@ Social interactions and face-to-face connection are important to us, but today w
  
 So now we are in a situation where instinctively we ache for connection and technology has been a big help in keeping us connected, ensuring the feeling of closeness and shared identity, which helps in times of crises. We need to find innovative ways and means around the present crisis. Many of these may form the design of our future lives!
 
-# Proposed solution:
+# Proposed solution
 In order to gain respite from the existing problem and give our small yet valuable contribution, we proposed a solution which is described as follows-
 The Corona Virus pandemic poses a threat to our physical health, but alongside, living a Covid-lifestyle (social distancing, lockdown extensions, work from home, etc.) also endangers our emotional well-being. Thus, it is crucial to understand public sentiments under COVID-19. 
 Our proposed solution aims at developing an application to visualize sentiments of Indians after the extension of lockdown announcements based on tweets with the relevant hash tags on twitter and build dashboards as a daily sentiment monitor product to present the results. It will give a simple interface which will present the public approach of people in India on varied topics through their sentiments visualised as graphs onto beautified dashboards by simply hitting a button in the app. 
 This proposed system will come in handy as it comes with a simple user interface which will enable users to get quick and reliable overview of the public approach.
 
-# Project Flow:
+# Project Flow
+![alt text](https://user-images.githubusercontent.com/66111230/86079857-1e61f200-baaf-11ea-90f8-5cfd3e388fe9.PNG)
+
+# Our data source includes
+Confirmed Cases:
+Time series data of confirmed cases: Kaggle (daily data from 30-01-2020 to 15-06-2020)
+Url Link- https://www.kaggle.com/sudalairajkumar/covid19-in-india/data
+
+Twitter:
+Tweets on Twitter retrieved with TwitterScraper API and GetOldTweet 
+To extract this data we used various queries that were directly related to Covid-19 which are(#MigrantIndia, #Atmanirbhar, #examoverhealth, #GoCoronaGo, #LOCKDOWNINDIA, #quarantineIndia, #CoronavirusIndia, #SocialDistancingIndia, #StaySafeIndia, #UNLOCK, #UNLOCKINIDA, #coronaupdatesindia, #COVID19INDIA, #INDIAFIGHTSCORONAVIRUS.)
+Duration-
+Lockdown 1: 20 March 2020 - 14th April 2020
+Lockdown 2: 15 April 2020 - 3rd May 2020
+Lockdown 3: 4th May 2020 - 17th May 2020
+Lockdown 4: 18th May 2020 - 31st May 2020
+Latest Trends: 14th June 2020 to 17th June 2020
+
+Visualisation of the contents of the tweets was done with Tableu which is attached in the folder entitled as "Dashboards". You'll need the Tableau Desktop app to view the document other way of accessing the file is with the help of the following URL links-
+
+## Dashboard1
+COVID-19 India Analysis 
+https://public.tableau.com/profile/misbah.aslam.sirnaik#!/vizhome/Dashboard-1CONFIRMEDCASES/COVID-19INDIAANALYSIS?publish=yes
 
 
 
@@ -33,13 +55,3 @@ This proposed system will come in handy as it comes with a simple user interface
 
 
 
-
-
-
-
-
-
-
-
-The data retreived here consisted of 20848 Tweets from the date 2020-06-14 too 2020-06-18. To extract this data we used various queries that were directly related to Covoid-19 which are(#MigrantIndia, #Atmanirbhar, #examoverhealth, #GoCoronaGo, #LOCKDOWNINDIA, #quarantineIndia, #CoronavirusIndia, #SocialDistancingIndia, #StaySafeIndia, #UNLOCK, #UNLOCKINIDA, #coronaupdatesindia, #COVID19INDIA, #INDIAFIGHTSCORONAVIRUS.
-Visualisation of the contents of the tweets was done with Tableu which is attached in the file "Covid-19 Related Tweets India.twbx". You'll need the Tableau Desktop app to view the document other way of accessing the file is with the help of URL: https://public.tableau.com/profile/misbah.aslam.sirnaik#!/vizhome/Covid-19RelatedTweetsIndia/Covid-19RelatedTrendingTweets
