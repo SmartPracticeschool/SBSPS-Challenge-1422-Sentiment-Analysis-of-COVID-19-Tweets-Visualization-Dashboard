@@ -31,17 +31,36 @@ This proposed system will come in handy as it comes with a simple user interface
 # Our data source includes
 Confirmed Cases:
 Time series data of confirmed cases: Kaggle (daily data from 30-01-2020 to 15-06-2020)
+
 Url Link- https://www.kaggle.com/sudalairajkumar/covid19-in-india/data
 
 Twitter:
 Tweets on Twitter retrieved with TwitterScraper API and GetOldTweet 
 To extract this data we used various queries that were directly related to Covid-19 which are(#MigrantIndia, #Atmanirbhar, #examoverhealth, #GoCoronaGo, #LOCKDOWNINDIA, #quarantineIndia, #CoronavirusIndia, #SocialDistancingIndia, #StaySafeIndia, #UNLOCK, #UNLOCKINIDA, #coronaupdatesindia, #COVID19INDIA, #INDIAFIGHTSCORONAVIRUS.)
 Duration-
+
 Lockdown 1: 20 March 2020 - 14th April 2020
+
 Lockdown 2: 15 April 2020 - 3rd May 2020
+
 Lockdown 3: 4th May 2020 - 17th May 2020
+
 Lockdown 4: 18th May 2020 - 31st May 2020
+
 Latest Trends: 14th June 2020 to 17th June 2020
+
+# Sentiment Analysis Process
+
+
+A) TextBlob Sentiment Analysis:
+TextBlob is a Python (2 and 3) library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more. 
+Here we have used Sentiment analysis. Sentiment analysis is basically the process of determining the attitude or the emotion of the writer, i.e., whether it is positive or negative or neutral.The sentiment function of textblob returns two properties, polarity, and subjectivity. Polarity is float which lies in the range of [-1,1] where 1 means positive statement and -1 means a negative statement. Subjective sentences generally refer to personal opinion, emotion or judgment whereas objective refers to factual information. Subjectivity is also a float which lies in the range of [0,1].
+
+B) IBM Watson Tone Analyzer: 
+We choose to use IBM’S Tone Analyser (a cloud service) to do the sentiment analysis because it can provide different tones of the text data which is more than positive-negative sentiment analysis. Through this way, we can study the tweets' emotion more specifically. 
+The data collection was followed by sentiment analysis which was further visualised using tableau public into dashboards
+
+# Visualisation in Tableau Public
 
 Visualisation of the contents of the tweets was done with Tableu which is attached in the folder entitled as "Dashboards". You'll need the Tableau Desktop app to view the document other way of accessing the file is with the help of the following URL links-
 
@@ -73,6 +92,8 @@ https://public.tableau.com/profile/techy.warriors#!/vizhome/Covid-19RelatedTweet
 Overall Sentiment change 
 
 https://public.tableau.com/profile/techy.warriors#!/vizhome/OverallSentimentChange-7emotions_15930084055550/Dashboard1?publish=yes
+
+
 
 
 
