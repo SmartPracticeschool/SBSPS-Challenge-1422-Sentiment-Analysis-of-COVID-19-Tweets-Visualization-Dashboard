@@ -60,6 +60,9 @@ Here we have used Sentiment analysis. Sentiment analysis is basically the proces
 
 ## B) IBM Watson Tone Analyzer
 
+![alt text](https://user-images.githubusercontent.com/66111230/86081338-c2996800-bab2-11ea-86ee-7c904d010d2a.PNG)
+
+![alt text](https://user-images.githubusercontent.com/66111230/86081361-ce852a00-bab2-11ea-928f-ecac896d9496.PNG)
 
 We choose to use IBM’S Tone Analyser (a cloud service) to do the sentiment analysis because it can provide different tones of the text data which is more than positive-negative sentiment analysis. Through this way, we can study the tweets' emotion more specifically. 
 
