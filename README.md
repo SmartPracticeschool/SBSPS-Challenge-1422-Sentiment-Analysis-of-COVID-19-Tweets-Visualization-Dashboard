@@ -138,7 +138,7 @@ To fight the coronavirus not only needs the guidance from the government but als
 
 # Acknowledgement
 
-The perfect way to document this project would be to acknowledge all those people who directly or indirectly encouraged, supported us with their value added inputs without them this project would not have been this better. We express our sincere gratitude to the entire team of IBM and Smart Internz to have bestowed this wonderful opportunity onto us. We heartily thank our project guides, Mr. Hemant Kumar Gahlot and Ms. Lolla Lalitha Gayatri for their guidance and suggestions during this project work. We are thankful to and fortunate enough to get constant encouragement, support and guidance through live boot camp sessions arranged by Smart Internz platform which helped us in successfully completing our project work. 
+The perfect way to document this project would be to acknowledge all those people who directly or indirectly encouraged, supported us with their value added inputs without them this project would not have been this better. We express our sincere gratitude to the entire team of IBM and Smart Internz to have bestowed this wonderful opportunity onto us. We heartily thank our project guides, Mr. Hemant Kumar Gahlot and Ms. Lolla Lalitha Gayatri for their guidance and suggestions during this project work. We are thankful to and fortunate enough to get constant encouragement, support and guidance through live boot camp sessions arranged by Smart Internz platform which helped us in successfully completing our project work.  
 
 
 
