@@ -101,12 +101,44 @@ Overall Sentiment change
 
 https://public.tableau.com/profile/techy.warriors#!/vizhome/OverallSentimentChange-7emotions_15930084055550/Dashboard1?publish=yes
 
+# MIT App
+MIT App inventor is a web application IDE originally provided by Google, and now maintained by the Massachusetts Institute of Technology (MIT). We used it for developing our end-user application through which the concerned authority can easily interact with our dashboards and gain corresponding insights.
+
+# Advantages and Disadvantages
+
+Advantages:
+
+1. Successfully identifying which messages and conversations act as emotion trigger that changes people’s mood.
+2. You can easily identify unsatisfied people with the decision of the government.
+3. On tracking overall satisfaction you will get bigger picture.
+
+Disadvantages:
+
+1. There are few tweets extracted from twitter that are quite gibberish which do not contribute to the purpose of our goal.
+2. Automated sentiment analysis tools do a really excellent work of analysing text or opinion and attitude but they are not perfect.
+3. Sentiments and emotions can be easily determined by a text but if it is expressed through a picture / video or any other similar form then analysis might get wrong.
+
+ 
+# Application
+
+1. Government Bodies: Comprehend the state of mind of people residing in the country and accordingly take necessary actions, be able to control negative rumours spreading during this period for the social good, etc.
+
+2. Business- Business Owners, entrepreneurs, etc. can keep a watchful eye on trending topics and people’s emotion change by running marketing campaign and finding out potential business opportunities, such as new services that is needed by people.
+
+3. Medical Institutions: Our analysis can help medical institutions know the emotion changes and mood fluctuations during the COVID-19. Doctors can provide assistance to people who have mental health issues such as depression and other mental illnesses.
+
+4. Counsellors: With the help of the data, counsellors can reach out to many potential individuals suffering from psychological problems and help them find a respite.
 
 
 
+# Conclusion
 
+In this project, we analysed the sentiments of COVID-19-related tweets in several ways. The overall trend shows that the public has been more optimistic over time. Digging into the multi-dimensional sentiment analysis, we found that the sentiment “Assertive” went up and “Fearful” went down through the time. 
+To fight the coronavirus not only needs the guidance from the government but also a positive attitude from the public. Our analysis provides a potential approach to reveal the public’s sentiment status and help institutions respond timely to it.
 
+# Acknowledgement
 
+The perfect way to document this project would be to acknowledge all those people who directly or indirectly encouraged, supported us with their value added inputs without them this project would not have been this better. We express our sincere gratitude to the entire team of IBM and Smart Internz to have bestowed this wonderful opportunity onto us. We heartily thank our project guides, Mr. Hemant Kumar Gahlot and Ms. Lolla Lalitha Gayatri for their guidance and suggestions during this project work. We are thankful to and fortunate enough to get constant encouragement, support and guidance through live boot camp sessions arranged by Smart Internz platform which helped us in successfully completing our project work. 
 
 
 
