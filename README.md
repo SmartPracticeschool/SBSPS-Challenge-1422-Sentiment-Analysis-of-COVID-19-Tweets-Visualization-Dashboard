@@ -50,14 +50,19 @@ Lockdown 4: 18th May 2020 - 31st May 2020
 Latest Trends: 14th June 2020 to 17th June 2020
 
 # Sentiment Analysis Process
+![alt text](https://user-images.githubusercontent.com/66111230/86081108-2b341500-bab2-11ea-9c26-fc41b95953f8.png)
 
+## A) TextBlob Sentiment Analysis
 
-A) TextBlob Sentiment Analysis:
 TextBlob is a Python (2 and 3) library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more. 
+
 Here we have used Sentiment analysis. Sentiment analysis is basically the process of determining the attitude or the emotion of the writer, i.e., whether it is positive or negative or neutral.The sentiment function of textblob returns two properties, polarity, and subjectivity. Polarity is float which lies in the range of [-1,1] where 1 means positive statement and -1 means a negative statement. Subjective sentences generally refer to personal opinion, emotion or judgment whereas objective refers to factual information. Subjectivity is also a float which lies in the range of [0,1].
 
-B) IBM Watson Tone Analyzer: 
+## B) IBM Watson Tone Analyzer
+
+
 We choose to use IBM’S Tone Analyser (a cloud service) to do the sentiment analysis because it can provide different tones of the text data which is more than positive-negative sentiment analysis. Through this way, we can study the tweets' emotion more specifically. 
+
 The data collection was followed by sentiment analysis which was further visualised using tableau public into dashboards
 
 # Visualisation in Tableau Public
