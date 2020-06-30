@@ -45,10 +45,35 @@ Latest Trends: 14th June 2020 to 17th June 2020
 
 Visualisation of the contents of the tweets was done with Tableu which is attached in the folder entitled as "Dashboards". You'll need the Tableau Desktop app to view the document other way of accessing the file is with the help of the following URL links-
 
-Dashboard1
+
 COVID-19 India Analysis 
 
 https://public.tableau.com/profile/misbah.aslam.sirnaik#!/vizhome/Dashboard-1CONFIRMEDCASES/COVID-19INDIAANALYSIS?publish=yes
+
+Percentage comparison of death vs cured
+
+https://public.tableau.com/profile/misbah.aslam.sirnaik#!/vizhome/Dashboard-1CONFIRMEDCASES/PercentageComparisonofdeathsvscured?publish=yes
+
+Lockdown 1
+
+https://public.tableau.com/profile/misbah.aslam.sirnaik#!/vizhome/Lockdown1_15929942182670/Lockdown1?publish=yes
+
+Lockdown 2 and 3
+ 
+https://public.tableau.com/profile/misbah.aslam.sirnaik#!/vizhome/Lockdown23/SentimentsduringLockdownPhaseTextBlob?publish=yes
+
+Lockdown 4 
+
+https://public.tableau.com/profile/misbah.aslam.sirnaik#!/vizhome/Lockdown4_15929911238010/Lockdown4?publish=yes
+
+Covid-19 related trendy tweets in India
+
+https://public.tableau.com/profile/techy.warriors#!/vizhome/Covid-19RelatedTweetsIndia_15929951157150/Sheet1
+
+Overall Sentiment change 
+
+https://public.tableau.com/profile/techy.warriors#!/vizhome/OverallSentimentChange-7emotions_15930084055550/Dashboard1?publish=yes
+
 
 
 
