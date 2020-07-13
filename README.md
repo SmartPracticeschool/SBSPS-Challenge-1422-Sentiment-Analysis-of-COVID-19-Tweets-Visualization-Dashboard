@@ -26,7 +26,7 @@ Our proposed solution aims at developing an application to visualize sentiments 
 This proposed system will come in handy as it comes with a simple user interface which will enable users to get quick and reliable overview of the public approach.
 
 # Project Flow
-![alt text](https://user-images.githubusercontent.com/66111230/86079857-1e61f200-baaf-11ea-90f8-5cfd3e388fe9.PNG)
+![alt text](https://user-images.githubusercontent.com/66111230/87300386-59423c00-c52b-11ea-9e8c-f91e7d4da6b7.PNG)
 
 # Our data source includes
 Confirmed Cases:
