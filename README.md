@@ -128,6 +128,16 @@ Trendy tweets with retweet count in lockdown 4
 https://public.tableau.com/profile/techy.warriors#!/vizhome/TechyWarriorsLockdown1/Dashboard5?publish=yes
 
 # App
+![alt text](https://user-images.githubusercontent.com/66111230/87306655-f86c3100-c535-11ea-977a-935731c44025.gif)
+
+Android Application was developed using Android Studio
+
+The working model (Android Application) is demonstrated below-
+ 
+Heres a link to the video which illustrates the entire look and feel of our app named CoAid
+
+VISUALISE. PONDER. ASSIST
+https://drive.google.com/file/d/1CjGGxF2opU2o5G1lAqt2YLcMzF07EcAI/view?usp=sharing 
 
 # Advantages and Disadvantages
 
