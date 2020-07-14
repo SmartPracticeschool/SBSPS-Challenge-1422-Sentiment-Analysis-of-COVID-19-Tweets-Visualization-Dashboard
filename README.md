@@ -128,6 +128,9 @@ Trendy tweets with retweet count in lockdown 4
 https://public.tableau.com/profile/techy.warriors#!/vizhome/TechyWarriorsLockdown1/Dashboard5?publish=yes
 
 # CoAid - VISUALISE. PONDER. ASSIST
+## Logo of CoAid
+![alt text](https://user-images.githubusercontent.com/66111230/87378347-3fe0d480-c5ab-11ea-8f7f-83593cb36256.jpg)
+## Quick Glance at CoAid App
 ![](https://user-images.githubusercontent.com/66111230/87306655-f86c3100-c535-11ea-977a-935731c44025.gif)
 
 The working model (Android Application) is demonstrated below-
