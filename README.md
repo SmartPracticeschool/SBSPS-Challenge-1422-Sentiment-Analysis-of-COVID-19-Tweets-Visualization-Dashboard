@@ -9,8 +9,10 @@ https://drive.google.com/file/d/10Te2J60iNZNFc3lAEwSRbgrNrnwzEpVa/view?usp=drive
 
 # Team Techy Warriors
 This repository contains all code files and data we used in the IBMHC 2020 project for the Sentiment Analysis of COVID-19 Tweets. 
-In this project, we utilized twitter data, leveraged NLP techniques to process the text data, analyzed the data by sentiment analysis using TextBlob and IBM Tone Analyzer, and created Tableau dashboard to present the results.
-# Overview
+In this project, we utilized twitter data, leveraged NLP techniques to process the text data, analyzed the data by sentiment analysis using TextBlob and IBM Tone Analyzer, visualised the data in Tableau public and developed an android application to present the results for best user interaction.
+![](https://user-images.githubusercontent.com/66111230/87503431-d41d6b00-c681-11ea-8522-40e703cb4d01.gif)
+
+# Objective
 To visualize Sentiments of Indians after the extension of lockdown announcements based on tweets with the relevant #tags on twitter and build dashboards as a daily sentiment monitor product to present the results.
 # Purpose
 The purpose of this project is as follows:
