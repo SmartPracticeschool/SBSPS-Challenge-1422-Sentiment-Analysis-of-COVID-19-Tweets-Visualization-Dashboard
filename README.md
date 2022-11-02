@@ -2,10 +2,6 @@
 ## Sentiment Analysis of COVID-19 Tweets-Visualization-Dashboard
 ![alt text](https://user-images.githubusercontent.com/66111230/86078930-d6da6680-baac-11ea-89d7-cdcc8e9bc7f7.jpg)
 
-## VIDEO OF OUR WORKING MODEL-
-
-https://drive.google.com/file/d/1POZUL9e5sJRo0xwebE1cXEia5OsP10YQ/view?usp=sharing
-
 # Team Techy Warriors
 This repository contains all code files and data we used in the IBMHC 2020 project for the Sentiment Analysis of COVID-19 Tweets. 
 In this project, we utilized twitter data, leveraged NLP techniques to process the text data, analyzed the data by sentiment analysis using TextBlob and IBM Tone Analyzer, visualised the data in Tableau public and developed an android application for best user interaction.            
