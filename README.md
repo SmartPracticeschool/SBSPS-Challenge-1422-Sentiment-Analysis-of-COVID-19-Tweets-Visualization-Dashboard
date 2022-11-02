@@ -133,15 +133,7 @@ https://public.tableau.com/profile/techy.warriors#!/vizhome/TechyWarriorsLockdow
 ## Quick Glance at CoAid App
 ![](https://user-images.githubusercontent.com/66111230/87306655-f86c3100-c535-11ea-977a-935731c44025.gif)
 
-The working model (Android Application) is demonstrated below-
-Android Application was developed using Android Studio
-Heres a link to the video which illustrates the entire look and feel of our app named CoAid
-
-https://drive.google.com/file/d/1CjGGxF2opU2o5G1lAqt2YLcMzF07EcAI/view?usp=sharing 
-
-Apk (CoAid App can be installed from here)-
-
-https://drive.google.com/file/d/1YJLpCHs0BhwEtrkF2uijCRjkFk6jt-n8/view?usp=sharing
+Android Application was developed using Android Studio.
 
 
 # Advantages and Disadvantages
