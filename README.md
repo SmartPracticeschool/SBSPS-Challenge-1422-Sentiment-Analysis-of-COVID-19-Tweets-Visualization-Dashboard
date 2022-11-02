@@ -9,9 +9,6 @@ In this project, we utilized twitter data, leveraged NLP techniques to process t
 
 
 
-![](https://user-images.githubusercontent.com/66111230/87503431-d41d6b00-c681-11ea-8522-40e703cb4d01.gif)
-
-
 
 # Objective
 To visualize Sentiments of Indians after the extension of lockdown announcements based on tweets with the relevant #tags on twitter and build dashboards as a daily sentiment monitor product to present the results.
